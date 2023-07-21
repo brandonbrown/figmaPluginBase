@@ -1,0 +1,19 @@
+{
+  "name": "reactTest",
+  "id": "1263870957093378949",
+  "api": "1.0.0",
+  "main": "dist/code.js",
+  "ui": "dist/ui.html",
+  "editorType": ["figma", "dev"],
+  "enableProposedApi": false,
+  "capabilities": ["codegen", "inspect"],
+  "codegenLanguages": [
+    {"label": "JavaScript", "value": "javascript"},
+    {"label": "TypeScript", "value": "typescript"}
+  ],
+  "networkAccess": {
+    "allowedDomains": [
+      "none"
+    ]
+  }
+}
